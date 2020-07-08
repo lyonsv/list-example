@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "verstand",
-    "slug": "verstand",
+    "name": "listExample",
+    "slug": "listExample",
     "version": "1.0.0",
+    "sdkVersion": "38.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
